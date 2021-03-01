@@ -1,0 +1,7 @@
+.bid-container{
+    display: flex;
+    display: inline;
+    padding: 20px;
+    color: black;
+    border: 1px solid wheat;
+}
